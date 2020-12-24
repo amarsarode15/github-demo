@@ -1,3 +1,4 @@
 Test Git Quick Start demo new
 1) First change on a new branch
 2) Rebasing conflicts example
+3) Git pull -rebase

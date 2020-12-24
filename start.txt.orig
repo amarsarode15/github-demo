@@ -1,7 +1,4 @@
 Test Git Quick Start demo new
 1) First change on a new branch
-<<<<<<< HEAD
 2) Rebasing conflicts example
-=======
-2) Changing this file for rebasing conflicts example - bigtrouble branch
->>>>>>> fb rebasing conflicts example
+
